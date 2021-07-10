@@ -1,0 +1,28 @@
+.Error-Modal-Box {
+    background-color: white;
+    height: 250px;
+    width: 400px;
+position: absolute;
+left: 500px;
+border : 1px solid black;
+border-radius: 15px;
+opacity: opaque;
+position: absolute;
+top: 30%;
+z-index: 100;
+}
+
+.header {
+  background: #8b005d;
+  padding: 50px;
+  border-radius: 15px;
+}
+.header h2 {
+  margin: 0;
+  color: white;
+}
+
+h3 {
+position: relative;
+left: 15%
+}
